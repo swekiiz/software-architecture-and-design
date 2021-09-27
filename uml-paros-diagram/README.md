@@ -1,16 +1,9 @@
-Soft Arch 13-09-2021
-
-โหลดไฟล์ zip : จาก https://kmitlthailand.sharepoint.com/sites/SoftwareArchitectureandDesign/Shared%20Documents/General/2021/Materials/paros-3.2.13-src.zip​
+# Soft Arch 13-09-2021
 
 ส่งที่ :​ https://forms.office.com/r/s2qs9mc98U​ (อัพ github ละแปะลิงค์)
-DL : สัปดาห์หน้า ?
-เครื่องมือ: 
- - วาดเอง DRAW.io
- - code เอา : plantUML
-
-How to : อ่าน Code ภาษา JAVA แล้วเขียนเป็น UML ไม่ต้องเขียน class ออกมาทั้งหมดก็ได้ เอาแค่พอดี ๆ (อาจารย์บอกมา)
 
 ไฟล์ทั้งหมดที่ต้องวาด
+
 src\org\parosproxy\paros\​
  - Paros​
  - Constant​
