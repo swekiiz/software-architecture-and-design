@@ -1,7 +1,6 @@
 package com.solid.lsp;
 
-public class Rectangle {
-    // DO NOT EDIT THE FILE FROM THIS LINE ONWARD!!
+public class Rectangle implements IRectangle {
     private int width;
     private int height;
 
